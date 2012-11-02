@@ -1,0 +1,21 @@
+Glider is a pattern which moves. If four generations pass, it will return to the original form and will move aslant by one cell.
+15 11
+16 12
+17 10
+17 11
+17 12
+38 56
+39 55
+40 55
+40 56
+40 57
+53 15
+53 16
+53 17
+54 17
+55 16
+89 87
+89 88
+89 89
+90 87
+91 88

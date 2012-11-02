@@ -1,4 +1,4 @@
 java-lifegame
 =============
 
-Java Lifegame
+Conway's game of life.
